@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="text" HorizontalAlignment="Left" Height="23" Margin="125,120,0,0" TextWrapping="Wrap" Text="Введите сообщение" VerticalAlignment="Top" Width="525"/>
+        <Label Name="hash" Content="" HorizontalAlignment="Left" Margin="220,215,0,0" VerticalAlignment="Top" Width="345"/>
+        <Button Content="Получить хэш-код" HorizontalAlignment="Left" Margin="335,165,0,0" VerticalAlignment="Top" Width="110" Click="Button_Click"/>
+        <Label Content="Хэш-код:" HorizontalAlignment="Left" Margin="155,215,0,0" VerticalAlignment="Top" Width="60"/>
+
+    </Grid>
+</Window>
