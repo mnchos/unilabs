@@ -1,0 +1,10 @@
+C:\Users\nix20\source\repos\Based\Based\bin\Debug\Based.exe.config
+C:\Users\nix20\source\repos\Based\Based\bin\Debug\Based.exe
+C:\Users\nix20\source\repos\Based\Based\bin\Debug\Based.pdb
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.csprojAssemblyReference.cache
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.Form1.resources
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.Properties.Resources.resources
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.csproj.GenerateResource.cache
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.exe
+C:\Users\nix20\source\repos\Based\Based\obj\Debug\Based.pdb

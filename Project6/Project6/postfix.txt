@@ -1,0 +1,5 @@
+b a ab ba
+a 150 =
+b a a * 88 a * + =
+ab b a / 28 b a * b * * 15 a / * + =
+ba ab a / b a / + ab 15 * 8 + a / + a a * a * b * ba * + =

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\nix20\source\repos\Laba2\Laba2\Source.cpp(107,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nix20\source\repos\Laba2\Laba2\Source.cpp(117,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nix20\source\repos\Laba2\Laba2\Source.cpp(136,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba2.vcxproj -> C:\Users\nix20\source\repos\Laba2\Debug\Laba2.exe

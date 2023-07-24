@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nix20\source\repos\Laba9\Laba9\Source.cpp(255,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nix20\source\repos\Laba9\Laba9\Source.cpp(205): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  Laba9.vcxproj -> C:\Users\nix20\source\repos\Laba9\Debug\Laba9.exe

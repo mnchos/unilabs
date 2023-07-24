@@ -1,0 +1,8 @@
+Var k, a,ab, bol: Integer;
+Begin
+a=5;
+
+ab=a * 10+a;
+
+bol=10 * ( ab - 3 * 2 - 4 * (15+2) / 13 )- 6;
+End.

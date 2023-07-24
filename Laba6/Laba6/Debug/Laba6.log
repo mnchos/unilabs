@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\nix20\source\repos\Laba6\Laba6\Source1.cpp(117,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+Source1.obj : error LNK2005: _main уже определен в Source.obj
+C:\Users\nix20\source\repos\Laba6\Debug\Laba6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

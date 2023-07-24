@@ -1,0 +1,11 @@
+Var a,b,c: Integer;
+
+Begin
+
+a=5;
+
+b=7+a;
+
+c=a*b;
+
+End.

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nix20\source\repos\Project3\Project3\Source.cpp(280,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nix20\source\repos\Project3\Project3\Source.cpp(281,9): warning C4101: d: неиспользованная локальная переменная
+  Project3.vcxproj -> C:\Users\nix20\source\repos\Project3\Debug\Project3.exe

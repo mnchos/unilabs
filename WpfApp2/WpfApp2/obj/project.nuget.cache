@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjGgykEFF2o1+yUCGTf6vF5Rlggqw3dK+0ULyQILid0uTnR0aL4Um7yXs6/aVcJ3l1wmTShEdJJ/svVUbbsTqA==",
+  "success": true,
+  "projectFilePath": "d:\\Users\\nix20\\source\\repos\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nix20\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nix20\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nix20\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nix20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(38,7): error C3861: counter: идентификатор не найден
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(38,18): error C3861: index: идентификатор не найден
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(44,31): error C3861: counter: идентификатор не найден
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(53,4): error C2065: Cout: необъявленный идентификатор
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(53,17): error C2676: бинарный "[": "List<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(53,22): error C2065: endl: необъявленный идентификатор
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(57,3): error C2065: Return: необъявленный идентификатор
+C:\Users\nix20\source\repos\Project4\Project4\Source.cpp(57,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"

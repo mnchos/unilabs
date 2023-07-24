@@ -1,53 +1,137 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+
 using System.Windows;
+
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
+
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+
 using System;
-using System.Security.Cryptography;
+
+using System.Linq;
+
 using System.Text;
 
-namespace WpfApp3
-{
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
-        static string Hash(string input)
-        {
-            using (SHA1Managed sha1 = new SHA1Managed())
-            {
-                var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(input));
-                var sb = new StringBuilder(hash.Length * 2);
+using System.Windows.Data;
 
-                foreach (byte b in hash)
+using System.Windows.Documents;
+
+using System.Windows.Input;
+
+using System.Windows.Media.Imaging;
+
+using System.Windows.Navigation;
+
+using System.Windows.Shapes;
+
+using System.Collections.ObjectModel;
+
+using System.IO;
+
+namespace WpfApplication3
+
+{
+
+    public partial class MainWindow : Window
+
+    {
+
+        public MainWindow()
+
+        {
+
+            InitializeComponent();
+
+        }
+
+        private void Stephen(object sender, RoutedEventArgs e)
+
+        {
+
+            try
+
+            {
+
+                double digit01 = Convert.ToDouble(digitbox.Text.Trim());
+
+                double digit02 = Convert.ToDouble(digitbox2.Text.Trim());
+
+                double result = Convert.ToDouble(Math.Pow(digit01, digit02));
+
+                resultbox.Text = result.ToString();
+
+            }
+
+            catch (Exception ex)
+
+            {
+
+                MessageBox.Show(ex.Message);
+
+            }
+
+        }
+
+        private void Quad(object sender, RoutedEventArgs e)
+
+        {
+
+            try
+
+            {
+
+                double digit01 = Convert.ToDouble(digitbox.Text.Trim());
+
+                double result = Convert.ToDouble(Math.Sqrt(digit01));
+
+                resultbox.Text = result.ToString();
+
+            }
+
+            catch (Exception ex)
+
+            {
+
+                MessageBox.Show(ex.Message);
+
+            }
+
+        }
+
+        private void Factorial(object sender, RoutedEventArgs e)
+
+        {
+
+            try
+
+            {
+
+                double digit01 = Convert.ToDouble(digitbox.Text.Trim());
+
+                double result = 1;
+
+                for (int i = 2; i <= digit01; i++)
+
                 {
-                    // can be "x2" if you want lowercase
-                    sb.Append(b.ToString("X2"));
+
+                    result = result * i;
+
                 }
 
-                return sb.ToString();
+                resultbox.Text = result.ToString();
+
             }
+
+            catch (Exception ex)
+
+            {
+
+                MessageBox.Show(ex.Message);
+
+            }
+
         }
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            string textinput = text.ToString();
-            textinput = Hash(textinput);         
-            hash.Content = textinput;
-        }
+
     }
+
 }
