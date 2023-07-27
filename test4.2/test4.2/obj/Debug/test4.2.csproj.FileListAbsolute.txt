@@ -1,0 +1,7 @@
+C:\Users\nix20\source\repos\test4.2\test4.2\bin\Debug\test4.2.exe.config
+C:\Users\nix20\source\repos\test4.2\test4.2\bin\Debug\test4.2.exe
+C:\Users\nix20\source\repos\test4.2\test4.2\bin\Debug\test4.2.pdb
+C:\Users\nix20\source\repos\test4.2\test4.2\obj\Debug\test4.2.csproj.AssemblyReference.cache
+C:\Users\nix20\source\repos\test4.2\test4.2\obj\Debug\test4.2.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\test4.2\test4.2\obj\Debug\test4.2.exe
+C:\Users\nix20\source\repos\test4.2\test4.2\obj\Debug\test4.2.pdb

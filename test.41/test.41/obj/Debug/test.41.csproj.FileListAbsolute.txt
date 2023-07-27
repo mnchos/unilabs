@@ -1,0 +1,7 @@
+C:\Users\nix20\source\repos\test.41\test.41\bin\Debug\test.41.exe.config
+C:\Users\nix20\source\repos\test.41\test.41\bin\Debug\test.41.exe
+C:\Users\nix20\source\repos\test.41\test.41\bin\Debug\test.41.pdb
+C:\Users\nix20\source\repos\test.41\test.41\obj\Debug\test.41.csproj.AssemblyReference.cache
+C:\Users\nix20\source\repos\test.41\test.41\obj\Debug\test.41.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\test.41\test.41\obj\Debug\test.41.exe
+C:\Users\nix20\source\repos\test.41\test.41\obj\Debug\test.41.pdb

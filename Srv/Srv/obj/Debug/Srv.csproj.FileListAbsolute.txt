@@ -1,0 +1,11 @@
+C:\Users\nix20\source\repos\Srv\Srv\bin\Debug\Srv.exe.config
+C:\Users\nix20\source\repos\Srv\Srv\bin\Debug\Srv.exe
+C:\Users\nix20\source\repos\Srv\Srv\bin\Debug\Srv.pdb
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.Form1.resources
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.frmRunTusk.resources
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.Properties.Resources.resources
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.csproj.GenerateResource.cache
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.exe
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.pdb
+C:\Users\nix20\source\repos\Srv\Srv\obj\Debug\Srv.csproj.AssemblyReference.cache

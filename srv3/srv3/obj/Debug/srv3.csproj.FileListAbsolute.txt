@@ -1,0 +1,10 @@
+C:\Users\nix20\source\repos\srv3\srv3\bin\Debug\srv3.exe.config
+C:\Users\nix20\source\repos\srv3\srv3\bin\Debug\srv3.exe
+C:\Users\nix20\source\repos\srv3\srv3\bin\Debug\srv3.pdb
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.csproj.AssemblyReference.cache
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.Form1.resources
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.Properties.Resources.resources
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.csproj.GenerateResource.cache
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.csproj.CoreCompileInputs.cache
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.exe
+C:\Users\nix20\source\repos\srv3\srv3\obj\Debug\srv3.pdb
